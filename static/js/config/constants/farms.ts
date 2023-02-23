@@ -9,14 +9,14 @@ const farms: FarmConfig[] = [
     lpSymbol: 'VoltAI',
     lpAddresses: {
       97: '',
-      1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
+      1: '0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
-      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
+      1: '0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -31,14 +31,14 @@ const farms: FarmConfig[] = [
 
     lpAddresses: {
       97: '',
-      1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
+      1: '0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
-      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
+      1: '0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -60,7 +60,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
-      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
+      1: '0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -196,7 +196,7 @@ const farms: FarmConfig[] = [
   //   tokenSymbol: 'PICKLE',
   //   tokenAddresses: {
   //     97: '',
-  //     1:"0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+  //     1:"0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
   //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
   //   },
@@ -218,7 +218,7 @@ const farms: FarmConfig[] = [
   //   tokenSymbol: 'SUSHI',
   //   tokenAddresses: {
   //     97: '',
-  //     1:"0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+  //     1:"0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
   //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
   //   },

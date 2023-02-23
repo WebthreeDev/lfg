@@ -610,7 +610,7 @@
             "use strict";
             t.a = {
                 cake: {
-                    1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                    1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                     56: "0x5c46c55a699a6359e451b2c99344138420c87261",
                     97: "",
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
@@ -622,7 +622,7 @@
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                 },
                 masterChef: {
-                    1: "0x028B837c24D8c73415e4443Cb49f5CA357A43410",
+                    1: "0xF20374Ea8AA631b398b729575CEB084DeA328219",
                     56: "0x77E81CBDC4dCc545189183FcbC73232468C60bfe",
                     97: "",
                     3: "0x654565b5370AE2f0b69067D511831108cA4cAB3C"
@@ -1069,14 +1069,14 @@
                     lpSymbol: "VoltAI",
                     lpAddresses: {
                         97: "",
-                        1: "0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac",
+                        1: "0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
                     tokenSymbol: "VoltAI",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1089,14 +1089,14 @@
                     platfrom: "Uniswap",
                     lpAddresses: {
                         97: "",
-                        1: "0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac",
+                        1: "0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
                     tokenSymbol: "VoltAI",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1116,7 +1116,7 @@
                     tokenSymbol: "VoltAI",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1423,10 +1423,10 @@
                     initialOpenState: !1,
                     items: [{
                         label: "Dex Guru",
-                        href: "https://dex.guru/token/0xeaeb339abc8dc78214c00b700a692c956b0e146b-eth"
+                        href: "https://dex.guru/token/0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13-eth"
                     }, {
                         label: "Dex Tools",
-                        href: "https://www.dextools.io/app/uniswap/pair-explorer/0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac"
+                        href: "https://www.dextools.io/app/uniswap/pair-explorer/0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421"
                     }]
                 }, {
                     label: "Pools",
