@@ -175,7 +175,7 @@
                         mb: "12px",
                         children: [Object(r.jsx)("img", {
                             src: "/images/egg/".concat(c, ".png"),
-                            alt: "VoltAI",
+                            alt: "ORB",
                             style: {
                                 width: "5.5rem",
                                 height: o ? "5.5rem" : "3rem"
@@ -765,7 +765,7 @@
                                 color: "secondary",
                                 fontSize: "12px",
                                 pr: "3px",
-                                children: "VoltAI "
+                                children: "ORB "
                             }), Object(r.jsx)(S.z, {
                                 bold: !0,
                                 textTransform: "uppercase",
@@ -907,7 +907,7 @@
                                     color: "textSubtle",
                                     textTransform: "uppercase",
                                     mb: "20px",
-                                    children: "VoltAI per $1000 "
+                                    children: "ORB per $1000 "
                                 })
                             }), Object(r.jsx)(Me, {
                                 children: Object(r.jsx)(S.z, {
@@ -978,7 +978,7 @@
                             justifyContent: "center",
                             children: Object(r.jsxs)(S.q, {
                                 href: "{``}",
-                                children: [" ", s(999, "Get"), " VOLTAI "]
+                                children: [" ", s(999, "Get"), " ORB "]
                             })
                         })]
                     })
@@ -1083,7 +1083,7 @@
                         C = n.tokenAddresses,
                         z = n.risk;
                     return Object(r.jsxs)(Ke, {
-                        children: ["VOLTAI" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
+                        children: ["ORB" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
                             lpLabel: v,
                             multiplier: n.multiplier,
                             risk: z,
@@ -1121,7 +1121,7 @@
                                 children: [b(318, "Earn"), ":"]
                             }), Object(r.jsxs)(S.z, {
                                 bold: !0,
-                                children: ["VoltAI", " "]
+                                children: ["ORB", " "]
                             })]
                         }), n.platfrom ? Object(r.jsxs)(S.m, {
                             justifyContent: "space-between",
@@ -1349,7 +1349,7 @@
                                         paddingLeft: "1rem"
                                     },
                                     children: [Object(r.jsx)(xn, {
-                                        children: T ? t(10002, "Stake VOLT AI to earn Passive Income") : t(320, "Stake LP tokens to earn VOLTAI")
+                                        children: T ? t(10002, "Stake VOLT AI to earn Passive Income") : t(320, "Stake LP tokens to earn ORB")
                                     }), Object(r.jsx)(pn, {})]
                                 })]
                             }), Object(r.jsx)("div", {

@@ -67,7 +67,7 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
         </GridItem>
         <GridItem>
           <Text fontSize="12px" bold color="textSubtle" textTransform="uppercase" mb="20px">
-            VoltAI per $1000 {/* {TranslateString(999, 'VOLTAI per $1000')} */}
+            ORB per $1000 {/* {TranslateString(999, 'ORB per $1000')} */}
           </Text>
         </GridItem>
         {/* 1 day row */}
@@ -129,7 +129,7 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
         <LinkExternal href="{``}">
           {' '}
           {/* double bracket hatana hai   https://exchange.pancakeswap.finance/#/add/${liquidityUrlPathParts} */}
-          {TranslateString(999, 'Get')} VOLTAI {/* {lpLabel} */}
+          {TranslateString(999, 'Get')} ORB {/* {lpLabel} */}
         </LinkExternal>
       </Flex>
     </Modal>
